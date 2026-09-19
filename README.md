@@ -1,8 +1,5 @@
 # 🛠️ Discuz! 編輯器 getSelection 報錯修復腳本
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-![Platform: Mac / Windows](https://shields.io)
-
 這個輕量級的 Tampermonkey（油猴）腳本專門為了解決**舊版 Discuz! 論壇系統（如 X3.4 等版本）**在現代瀏覽器（（特別是 Mac Safari/Firefox/Chrome）中發帖時的相容性錯誤。
 
 ---
